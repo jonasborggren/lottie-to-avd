@@ -3,6 +3,11 @@
 This is a simple command line lottie json to android animated vector drawable xml converter.  
 It is fork of https://github.com/bodymovin/bodymovin-to-avd. Currently I just added command line interface. Core code is not changed.
 
+# Prerequisites
+
+- Install node
+- Install node/xml-js `npm i xml-js --save`
+
 # Usage:
 
 **Option 1:**
